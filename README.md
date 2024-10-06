@@ -23,7 +23,7 @@ This project is a simple yet effective website designed to provide mental health
 To set up this project locally:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/mental-health-support.git
+   git clone https://github.com/yeeshu31/Mental-Health-Support-website.git
 
 2. Navigate into the project directory:
    cd mental-health-support
